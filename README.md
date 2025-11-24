@@ -173,7 +173,7 @@ project/
 Install dependencies:
 
 ```bash
-pip install streamlit pandas plotly numpy
+pip install streamlit openpyxl pandas plotly numpy
 ```
 
 ---
